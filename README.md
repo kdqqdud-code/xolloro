@@ -1,10 +1,22 @@
-# XOLLORO Website
+# XOLLORO — الموقع الرسمي
 
-Arabic landing page for XOLLORO digital marketing, design, and website services in Oman.
+صفحة هبوط عربية لخدمات التصميم والتسويق الرقمي والمواقع في سلطنة عُمان.
 
-## Publish with GitHub Pages
-In the repository settings, open **Pages**. Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then Save.
+## رابط الموقع المتوقع
+https://kdqqdud-code.github.io/xolloro/
 
-Expected URL: https://kdqqdud-code.github.io/xolloro/
+## إعداد GitHub Pages
+من إعدادات المستودع **Settings → Pages**:
+1. اختر **Deploy from a branch**.
+2. اختر الفرع **main**.
+3. اختر المجلد **/(root)**.
+4. اضغط **Save**.
 
-WhatsApp: https://wa.me/96878548004
+## ملفات محركات البحث
+- خريطة الموقع: https://kdqqdud-code.github.io/xolloro/sitemap.xml
+- ملف robots: https://kdqqdud-code.github.io/xolloro/robots.txt
+
+## التواصل
+واتساب: https://wa.me/96878548004
+
+الموقع ثابت (HTML/CSS) ولا يحتاج استضافة مدفوعة أو قاعدة بيانات أو PHP. إرسال خريطة الموقع إلى Google Search Console وطلب الفهرسة خطوة منفصلة، ولا تضمن Google ترتيبًا أو ظهورًا فوريًا.

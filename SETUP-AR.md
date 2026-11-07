@@ -16,7 +16,7 @@
    - `SUPABASE_URL_REQUIRED`
    - `SUPABASE_ANON_KEY_REQUIRED`
    بالقيم العامة الخاصة بمشروعك.
-4. افتح SQL Editor في Supabase وشغّل محتوى `supabase/schema.sql` بعد استبدال `ADMIN_EMAIL` ببريد المدير الذي ستستخدمه لتسجيل الدخول.
+4. افتح SQL Editor في Supabase وشغّل محتوى `supabase/schema.sql`. تم ضبط بريد المدير مسبقاً في الملف على `kdqqdud@gmail.com`؛ راجع البريد قبل التشغيل إذا أردت تغييره.
 5. فعّل Email/Password في Supabase Auth وأنشئ حساب المدير بذلك البريد. لا تضع كلمة المرور في ملفات GitHub.
 6. اختبر الدخول. يجب أن يطابق بريد الحساب البريد الموجود في admin_allowlist.
 

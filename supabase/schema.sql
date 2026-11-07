@@ -4,7 +4,7 @@ create table if not exists public.admin_allowlist (
   email text primary key,
   created_at timestamptz not null default now()
 );
-insert into public.admin_allowlist(email) values (lower('ADMIN_EMAIL'))
+insert into public.admin_allowlist(email) values (lower('kdqqdud@gmail.com'))
 on conflict (email) do nothing;
 
 create or replace function public.is_xolloro_admin()
